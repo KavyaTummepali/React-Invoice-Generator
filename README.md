@@ -7,13 +7,3 @@ https://invoice-generator-byarsh.vercel.app/
 
 ### Screenshot
 <img src="https://i.ibb.co/3R5JQnv/invoice-generator.png" alt="invoice-generator" border="0">
-
-### Installation
-
-```
-git clone https://github.com/arshbhatia8/react-invoice-generator.git
-
-npm install
-
-npm start
-```
